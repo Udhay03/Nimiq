@@ -38,5 +38,24 @@ Target: https://wallet.nimiq.com/
 [14:24:40] 400 -    5KB - /%2e%2e/google.com
 [14:29:27] 200 -   15KB - /favicon.ico                                                                            
 [14:30:03] 200 -  406B  - /manifest.json                                                                       
-[14:30:46] 200 -   24B  - /robots.txt      
+[14:30:46] 200 -   24B  - /robots.txt
+
+root@kali:~# dirsearch -u https://keyguard.nimiq.com/ -w /root/toolkit/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -e php,js,txt,json,html
+
+ _|. _ _  _  _  _ _|_    v0.3.9
+(_||| _) (/_(_|| (_| )
+
+Extensions: php, js, txt, json, html | HTTP method: get | Threads: 10 | Wordlist size: 220521
+
+Error Log: /root/toolkit/dirsearch/logs/errors-21-04-09_15-24-43.log
+
+Target: https://keyguard.nimiq.com/
+
+[15:24:44] Starting: 
+[15:24:44] 200 -  770B  - /
+[15:24:48] 301 -  162B  - /assets  ->  https://keyguard.nimiq.com/assets/
+[15:24:52] 301 -  162B  - /lib  ->  https://keyguard.nimiq.com/lib/
+[15:25:00] 301 -  162B  - /request  ->  https://keyguard.nimiq.com/request/
+
+                                          
                                           
