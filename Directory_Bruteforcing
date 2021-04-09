@@ -27,3 +27,8 @@ Target: http://autoconfig.nimiq.com/
 [16:03:44] 302 -    0B  - /user  ->  /                                                                            
 [16:03:44] 302 -    0B  - /user.php  ->  /
 
+Target: http://autoconfig.nimiq.com/api/                                                                                                                                                                                                   
+                                                                                                                                                                                                                                           
+[16:05:18] Starting: 
+[16:07:10] 200 -    1KB - /api/index.html                                                                         
+                                          
