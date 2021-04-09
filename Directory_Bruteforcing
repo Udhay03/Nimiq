@@ -1,0 +1,29 @@
+Target: http://autoconfig.nimiq.com/                                                                                                                                                                                                       
+                                                                                                                                                                                                                                           
+[15:59:07] Starting: 
+[15:59:24] 400 -  150B  - /%2e%2e/google.com
+[16:00:17] 403 -  548B  - /.well-known/                                          
+[16:01:02] 302 -    0B  - /admin  ->  /                                
+[16:01:02] 302 -    0B  - /admin.php  ->  /       
+[16:01:35] 301 -  162B  - /api  ->  /api/                                                                         
+[16:01:35] 200 -    1KB - /api/    
+[16:01:53] 200 -    0B  - /cache/sql_error_latest.cgi                 
+[16:01:53] 200 -    0B  - /cache/
+[16:02:09] 301 -  162B  - /css  ->  /css/                                      
+[16:02:12] 302 -    0B  - /debug  ->  /            
+[16:02:12] 302 -    0B  - /debug.php  ->  /
+[16:02:15] 302 -    0B  - /edit.php  ->  /                 
+[16:02:20] 301 -  162B  - /fonts  ->  /fonts/                                                         
+[16:02:27] 301 -  162B  - /img  ->  /img/                              
+[16:02:27] 301 -  162B  - /inc  ->  /inc/  
+[16:02:27] 403 -  548B  - /inc/     
+[16:02:28] 200 -   23KB - /index                                                                               
+[16:02:28] 200 -   23KB - /index.php  
+[16:02:31] 301 -  162B  - /js  ->  /js/                                                                 
+[16:02:33] 301 -  162B  - /lang  ->  /lang/                                             
+[16:02:41] 403 -    0B  - /Microsoft-Server-ActiveSync/             
+[16:02:45] 301 -  162B  - /oauth  ->  /oauth/                                  
+[16:03:11] 200 -   26B  - /robots.txt                                                          
+[16:03:44] 302 -    0B  - /user  ->  /                                                                            
+[16:03:44] 302 -    0B  - /user.php  ->  /
+
